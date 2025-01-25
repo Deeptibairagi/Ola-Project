@@ -26,7 +26,7 @@
 - Insights: Provided information on customer satisfaction per vehicle type, identifying areas for improvement.
 
 # Revenue
-![image](https://github.com/user-attachments/assets/41527cba-5676-4be5-b9af-f31800077eba)
+![image](https://github.com/user-attachments/assets/ab44b726-17f3-4edd-841e-50382fadfc27)
 
 **1. Revenue by Payment Method**
 - Details: A bar chart displayed total revenue by payment method (Cash, UPI, Credit Card, Debit Card).
